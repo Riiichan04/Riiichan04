@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - 🤖 Just learned AI for a few month.
 
 ## 📊 Github Stats
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=Riiichan04&show_icons=true&theme=react"/></div>
-<div><img align="right" src="https://streak-stats.demolab.com/?user=Riiichan04&theme=react"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riiichan04&show_icons=true&theme=react"/></div>
+ㅤ
+<div align="center"><img src="https://streak-stats.demolab.com/?user=Riiichan04&theme=react"/></div>
 ㅤ
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiichan04&layout=donut&langs_count=8&hide=tsql&theme=react" /></div>
