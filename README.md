@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://streak-stats.demolab.com/?user=Riiichan04&theme=react"/></div>
 ㅤ
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiichan04&layout=donut&langs_count=8&hide=tsql&theme=react" /></div>
+
+## ⚙️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,js,react,nodejs,express,jquery,ts,bootstrap&perline=6">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,jupyter,sqlserver,mysql,mongodb,materialui,github,git&perline=6">
+</p>
