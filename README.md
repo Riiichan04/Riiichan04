@@ -1,7 +1,7 @@
 <h1 align="center">HAPPY LUNAR NEW YEARRRRR!!! 🧧🧧🧧</h1>
 
-<h1 align="center">Hello World 👋, I'm Regiko04</h1>
-<h3 align="center">I'm an IT Student at NLU from 2022. I want to become a Developer, maybe 🥹</h3>
+<h3 align="center">Hello World 👋, I'm Regiko04</h3>
+<h4 align="center">I'm an IT Student at NLU from 2022. I want to become a Developer, maybe 🥹</h4>
 <div align="center"><img src="https://64.media.tumblr.com/a46f4b71c5219602e9c3877aa99d36e7/21e774b1b86bfac2-46/s640x960/80348acbb95a8bbbe993dc68a2a37e04b5a201dd.gif"></div>
 
 ## 🤗 About me
