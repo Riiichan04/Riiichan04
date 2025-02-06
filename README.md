@@ -13,7 +13,7 @@
 <!--- 💓 Yes, i have a girlfriend :>-->
 
 ## 📊 Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riiichan04&show_icons=true&theme=react" alt="My stat so far"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riiichan04&show_icons=true&theme=react&&include_all_commits=true" alt="My stat so far"/></div>
 ㅤ
 <div align="center"><img src="https://streak-stats.demolab.com/?user=Riiichan04&theme=react" alt="You see this text? Yes, because my github streak can't load 🥹"/></div>
 ㅤ
