@@ -26,4 +26,4 @@
 </p>
 
 ## 😺 And just a counter :))
-<p><img src="https://komarev.com/ghpvc/?username=riiichan04&color=brightgreen"></p>
+<p><img src="https://komarev.com/ghpvc/?username=riiichan04&color=brightgreen&label=OwO"></p>
