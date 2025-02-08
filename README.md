@@ -1,4 +1,5 @@
-<h1 align="center">HAPPY LUNAR NEW YEARRRRR!!! 🧧🧧🧧</h1>
+<!--<h1 align="center">HAPPY LUNAR NEW YEARRRRR!!! 🧧🧧🧧</h1>-->
+<!-- Tet is over ;-; -->
 
 <h3 align="center">Hello World 👋, I'm Regiko04</h3>
 <h4 align="center">I'm an IT Student at NLU from 2022. I want to become a Developer, maybe 🥹</h4>
