@@ -23,10 +23,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,jupyter,sqlserver,mysql,mongodb,materialui,github,git&perline=6">
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=riiichan04&color=brightgreen&label=OwO"></p>
+<!--<p><img src="https://komarev.com/ghpvc/?username=riiichan04&color=brightgreen&label=OwO"></p>-->
 
-
-<h2 align="center">HAPPY BIRTHDAY KANADE-CHAN 🥹🎂😻</h2>
+<!--<h2 align="center">HAPPY BIRTHDAY KANADE-CHAN 🥹🎂😻</h2>
 <p align="center">
   <img src="https://static.wikitide.net/projectsekaiwiki/c/c0/SEKAI_no_4koma_279.jpg" style="width: 50%"/>
-</p>
+</p>-->
