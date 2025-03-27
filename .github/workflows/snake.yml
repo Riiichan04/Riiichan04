@@ -34,7 +34,6 @@ jobs:
           mkdir -p snake/
           cp dist/github-contribution-grid-snake.svg snake/github-snake.svg
           cp dist/github-contribution-grid-snake-dark.svg snake/github-snake-dark.svg
-          cp dist/ocean.gif snake/ocean.gif
     
       - name: Commit Snake Animation
         run: |
