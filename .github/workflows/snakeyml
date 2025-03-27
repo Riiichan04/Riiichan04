@@ -1,0 +1,42 @@
+name: Profile Snake
+
+on:
+  push:
+    branches: [ main ]
+  schedule: 
+    - cron "0 0 * * *" #Chạy mỗi ngày lúc 0h UTC
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-lastest
+    timeout-minutes: 5
+    steps:
+    
+     - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    - name: Move to Root and Rename Snake File
+      run: |
+        cp dist/github-contribution-grid-snake.svg snake/github-snake.svg
+        cp dist/github-contribution-grid-snake-dark.svg snake/github-snake-dark.svg
+        cp dist/ocean.gif snake/ocean.gif
+    
+    - name: Commit Snake Animation
+      run: |
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add snake/github-snake.svg snake/github-snake-dark.svg snake/ocean.gif
+            git commit -m 'Update snake animation' || true
+            git pull --rebase origin main || true
+            git push origin main || { git pull origin main --no-rebase && git push origin main; } 
