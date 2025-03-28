@@ -19,6 +19,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiichan04&layout=donut&langs_count=8&hide=tsql&theme=react" alt="My top language :>"/></div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Riiichan04&theme=react" alt="You see this text? Yes, because my github streak can't load 🥹"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake/github-snake.svg" />
