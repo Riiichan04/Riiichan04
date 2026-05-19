@@ -39,3 +39,6 @@ And just a snake 😹
   <img src="https://skillicons.dev/icons?i=java,python,django,html,css,js,react,nodejs,express,jquery,ts,bootstrap&perline=6">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,jupyter,sqlserver,mysql,mongodb,materialui,tailwind,vue,next,github,git,docker&perline=6">
 </p>
+
+---
+<img src="https://komarev.com/ghpvc/?username=riiichan04&color=blue" alt="My stat so far"/>
