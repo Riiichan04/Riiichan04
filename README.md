@@ -6,11 +6,11 @@
 <div align="center"><img src="https://64.media.tumblr.com/a46f4b71c5219602e9c3877aa99d36e7/21e774b1b86bfac2-46/s640x960/80348acbb95a8bbbe993dc68a2a37e04b5a201dd.gif"></div>
 
 ## 🤗 About me
-- 🏫 I'm a fourth year student at NLU
-- 🌱 I’m currently learning Java as my main programming language. Currently, i'm trying to learn CI/CD and NextJS/VueJS 😃.
+- 🏫 I will graduate soon :DDDDD
+- 🌱 I’m currently learning Java as my main programming language. And i use Spring Boot and NextJS as my main frameworks.
 - 📚 And i'm also learning some Java, ~~JS and Python~~ TypeScript 😺 libraries and frameworks.
 - 🥰 As you see. My waifu is `Yoisaki Kanadeeeee`
-- 🤖 Just learned AI for a few month.
+- 🤖 Just learned AI for a year.
 <!--- 💓 Yes, i have a girlfriend :>-->
 <!-- HAPPY VALENTINE MY LOVE <333 -->
 
