@@ -34,6 +34,12 @@
 
 And just a snake 😹
 
+<div align="center">
+  <img src="taiko/taiko-festival.svg" alt="Taiko contribution animation" />
+</div>
+
+And a taiko for my contribution :D
+
 ## ⚙️ Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,django,html,css,js,react,nodejs,express,jquery,ts,bootstrap&perline=6">
