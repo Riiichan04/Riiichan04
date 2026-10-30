@@ -44,3 +44,4 @@ jobs:
             exit 0
           fi
           git commit -m "Update Taiko images"
+          git push origin main
