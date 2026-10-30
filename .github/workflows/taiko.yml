@@ -2,10 +2,9 @@ name: taiko-github-profile
 
 on:
   push:
-    branches: [ main ]
-  schedule: 
-    #Run everyday at 0:00 UTC
-    - cron: "0 0 * * *" 
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,9 +25,7 @@ jobs:
 
       - uses: Riiichan04/taiko-github-profile@main
         with:
-          username: ${{ github.repository_owner }}
-          github-token: ${{ secrets.CONTRIBUTIONS_TOKEN || github.token }}
-          bpm: '200'
+          chart: charts/custom.tja
           outputs: |
             taiko/taiko.svg?background=original
             taiko/taiko-festival.svg?background=festival
